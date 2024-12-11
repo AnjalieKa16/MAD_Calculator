@@ -1,4 +1,4 @@
-# My Calculator App
+# Calculator App
 
 A simple calculator app built with React Native, designed to perform basic arithmetic operations with a user-friendly interface.
 
