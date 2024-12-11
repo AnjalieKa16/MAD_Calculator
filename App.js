@@ -1,3 +1,6 @@
+//            IM/2021/016 - P.K.A.E Karunarathne
+
+
 import { useEffect, useState } from "react"; 
 import { View, Text, StyleSheet, TouchableOpacity, TextInput, Modal, ScrollView } from "react-native";
 import { FontAwesome5, FontAwesome } from "@expo/vector-icons"; 
